@@ -1,7 +1,5 @@
 language: java
 sudo: required
-addons:
-  apt:
-    packages:
-      - oracle-java7-installerenv:
-      - oracle-java8-installerenv:
+jdk:
+  - oraclejdk7
+  - oraclejdk8
