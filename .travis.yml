@@ -3,5 +3,5 @@ sudo: required
 addons:
   apt:
     packages:
-      - oracle-java8-installerenv:
+      - oracle-java7-installerenv:
       - oracle-java8-installerenv:
